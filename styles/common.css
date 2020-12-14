@@ -1,0 +1,12 @@
+#logo {
+  font-family: "Montez", cursive;
+  color: blue;
+}
+#logo-subtext {
+  font-family: "Ubuntu Mono", monospace;
+}
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

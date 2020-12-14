@@ -1,0 +1,23 @@
+.title-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input#edit-button {
+  background: #ccc url("../images/edit.png") no-repeat right;
+  padding-right: 24px;
+  background-color: crimson;
+  color: white;
+  border: 0;
+}
+
+.sub-title-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+
+.para-container {
+  padding: 8px;
+}
